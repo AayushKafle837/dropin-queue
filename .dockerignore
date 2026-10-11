@@ -1,0 +1,7 @@
+# Keep secrets, local installs and repo history out of the image
+.env
+vendor/
+.git/
+.phpunit.cache/
+docs/
+tests/
