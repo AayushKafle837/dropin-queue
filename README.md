@@ -89,7 +89,7 @@ composer test
 
 ## How I used AI on this
 
-I used Claude as a coding assistant while building this, which is how I'd expect to work in a team that uses these tools. I wrote the requirements from what I see at STIMulate, chose the structure, and went through every file until I could explain it. The tests and a full click-through of every page are how I checked the AI-assisted code actually does what I wanted, rather than trusting it. That review caught two real bugs: the auto-refresh setting was being set inside a template where the layout could never see it, and the stylesheet wasn't being served under PHP's built-in dev server.
+I used Claude as a coding assistant while building this, which is how I'd expect to work in a team that uses these tools. I wrote the requirements from what I saw at STIMulate, chose the structure, and went through every file until I could explain it. The tests and a full click-through of every page are how I checked the AI-assisted code actually does what I wanted, rather than trusting it. That review caught two real bugs: the auto-refresh setting was being set inside a template where the layout could never see it, and the stylesheet wasn't being served under PHP's built-in dev server.
 
 ## What I'd do next
 
