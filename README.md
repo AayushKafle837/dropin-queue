@@ -8,9 +8,13 @@ Students join the queue from their laptop and see their place and a wait estimat
 
 ## Why I built it
 
-I worked as a Peer Learning Facilitator at STIMulate, QUT's drop-in support service for maths, science and IT. On busy nights it's hard to tell who has been waiting longest, and students sometimes leave because they can't tell how long they'll wait. This app is my answer to that: first come, first served, with an honest wait estimate based on how long help is actually taking that night.
+When I was a Peer Learning Facilitator at STIMulate, QUT's drop-in support service for maths, science and IT, I noticed that on busy nights it was hard to tell who had been waiting longest, and some students left because they couldn't tell how long they'd wait. I built this as a personal project to see how a fair, first-come-first-served queue with an honest wait estimate could work in practice.
 
 I also built it on purpose without a framework. I wanted to understand what Symfony and Laravel do for you (routing, controllers, templates, request handling) by writing a small version of each piece myself.
+
+## Project status
+
+This is a working prototype, not a finished product. I trialled it with a few friends playing students and facilitators, and the feedback was positive, but I haven't tested it with real STIMulate sessions, so I can't yet say whether it would help in a live setting. The next steps are listed under "What I'd do next".
 
 | Student view | Mobile |
 | --- | --- |
