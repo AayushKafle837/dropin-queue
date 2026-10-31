@@ -8,7 +8,7 @@ Students join the queue from their laptop and see their place and a wait estimat
 
 ## Why I built it
 
-I work as a Peer Learning Facilitator at STIMulate, QUT's drop-in support service for maths, science and IT. On busy nights it's hard to tell who has been waiting longest, and students sometimes leave because they can't tell how long they'll wait. This app is my answer to that: first come, first served, with an honest wait estimate based on how long help is actually taking that night.
+I worked as a Peer Learning Facilitator at STIMulate, QUT's drop-in support service for maths, science and IT. On busy nights it's hard to tell who has been waiting longest, and students sometimes leave because they can't tell how long they'll wait. This app is my answer to that: first come, first served, with an honest wait estimate based on how long help is actually taking that night.
 
 I also built it on purpose without a framework. I wanted to understand what Symfony and Laravel do for you (routing, controllers, templates, request handling) by writing a small version of each piece myself.
 
